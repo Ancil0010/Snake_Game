@@ -1,6 +1,7 @@
 # game
 
 A new Flutter project.
+It's a Snake game . The snake and food is made of block 
 
 ## Getting Started
 
